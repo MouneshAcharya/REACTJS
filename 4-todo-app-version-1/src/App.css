@@ -1,0 +1,17 @@
+h1{
+  font-weight: 900;
+  font-size: x-large;
+  margin-bottom: 25px;
+}
+
+.todo-row{
+  margin: 20px;
+}
+
+.todo-container{
+  text-align: left;
+}
+
+.todo-btn{
+  min-width: 80px;
+}
